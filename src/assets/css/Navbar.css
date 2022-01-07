@@ -1,0 +1,20 @@
+.navbar-main {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  box-shadow: 0 5px 20px -10px #000;
+}
+.content-nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 40px;
+  padding: 10px 15px 10px 50px;
+}
+.main-center{
+    display: flex;
+    margin-top: 60px;
+    margin-right: 0px;
+}

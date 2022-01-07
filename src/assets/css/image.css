@@ -1,0 +1,14 @@
+ul {
+  cursor: pointer;
+}
+.list-div {
+  background: linear-gradient(
+    35deg,
+    rgba(255, 255, 255, 0.933),
+    rgba(59, 54, 54, 0.933)
+  );
+  width: 22%;
+  /* padding-left: 75px;  */
+  padding: 40px; 
+  padding-top: 56px;
+}
